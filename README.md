@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Financial Advisory App<br>🌱 I’m currently learning MERN Stack
+🔭 I’m currently working on a Financial Advisory App<br>🌱 I’m currently learning MERN Stack and Deep Learning
 
 
 ## 🌐 Socials:
