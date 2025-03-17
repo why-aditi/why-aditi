@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ...<br>🌱 I’m currently learning FARM Stack and Deep learning<br>
+🔭 I’m currently working on Facial Recognition Attendance System <br>🌱 I’m currently learning FARM Stack and Deep learning<br>
 
 # Portfolio
 [https://portfolio-aditi-4ni4br15c-aditi-kalas-projects.vercel.app/](https://portfolio-aditi-nine.vercel.app/)
