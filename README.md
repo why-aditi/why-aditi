@@ -2,8 +2,7 @@
 🔭 I’m currently working on Facial Recognition Attendance System <br>🌱 I’m currently learning FARM Stack and Deep learning<br>
 
 # Portfolio
-[[https://portfolio-aditi-4ni4br15c-aditi-kalas-projects.vercel.app/](https://portfolio-aditi-nine.vercel.app/)](https://portfolio-aditi-nine.vercel.app/)
-
+https://portfolio-aditi-nine.vercel.app/
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditi-kala-b4740228b/) 
 
